@@ -5,6 +5,7 @@ function interceptLink (index, node) {
     var jNode   = $(node);
     jNode.click (openInNewTab);
     jNode.addClass ("intercepted");
+	
 }
 function openInNewTab (zEvent) {
     //-- Optionally adjust the href here, if needed.
