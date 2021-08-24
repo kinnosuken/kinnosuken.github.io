@@ -1,2 +1,2 @@
-# kinnosuken.github.io
+# kinnosuken.osuskins.io
  Osu skins
