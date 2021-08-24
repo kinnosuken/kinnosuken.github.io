@@ -1,2 +1,1 @@
-# kinnosuken.osuskins.io
- Osu skins
+# kinnosuken osu! skins
